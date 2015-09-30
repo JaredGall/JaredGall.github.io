@@ -1,0 +1,28 @@
+h1 {
+	margin-left: 400px;
+}
+
+span.section {
+	font-weight: bold;
+	margin-left: 150px;
+	width: 700px;
+	font-size: 20px;
+}
+
+p {
+	margin-left: 200px;
+	width: 700px;
+}
+
+li {
+	margin-left: 250px;
+	width: 700px;
+}
+
+span.organization {
+	font-weight: bold;
+}
+
+span.position {
+	font-style: italic;
+}
